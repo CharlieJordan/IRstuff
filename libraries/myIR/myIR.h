@@ -13,4 +13,5 @@
 //
 // CONSTANTS
 //
-#define IR_PERIOD	26	// inverse of frequency, in ųs.  e.g.: 26ųs for 38kHz, 18ųs for 56kHz, etc...
+#define IR_PERIOD	26	// inverse of frequency, in ųs.  e.g.: 26ųs for 38kHz, 18ųs for 56kHz, etc
+#define SERIAL_SPEED    9600
